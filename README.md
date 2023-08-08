@@ -1,1 +1,3 @@
 # init.lua
+
+Neovim config
